@@ -1,1 +1,1 @@
-web: gunicorn wonderland.wsgi
+web: gunicorn wonderland-tattoo.wsgi
